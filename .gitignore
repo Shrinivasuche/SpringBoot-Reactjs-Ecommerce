@@ -1,0 +1,20 @@
+# Frontend
+Ecommerce-Frontend/node_modules/
+Ecommerce-Frontend/dist/
+Ecommerce-Frontend/.vite/
+
+# Backend
+Ecommerce-Backend/target/
+Ecommerce-Backend/.gradle/
+Ecommerce-Backend/.mvn/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
